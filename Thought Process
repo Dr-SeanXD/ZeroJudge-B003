@@ -1,0 +1,3 @@
+Sum the numbers from 1 to n. When the cumulative sum exceeds n, check if the difference between the cumulative sum and n is even. If it is even, then the current value of n is the answer.
+
+If n is negative, convert it to a positive number. Also, ensure that the variable used for summation is of type Long Long Int.
